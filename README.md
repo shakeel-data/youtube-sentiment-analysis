@@ -1,4 +1,5 @@
 # YouTube Comment Sentiment Analysis
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/cd00354d-d067-49b8-a26d-e91bb4319add" />
 
 ## 📋 Project Overview
 
