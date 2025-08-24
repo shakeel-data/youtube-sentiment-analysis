@@ -19,14 +19,27 @@ This automated approach saves hours of manual analysis while providing professio
 
 ## 🔧 Setup & Installation
 
-1. **Clone the repository**
-git clone https://github.com/shakeel-data/youtube-sentiment-analysis.git
+### 1. **Clone the repository**
+- git clone https://github.com/shakeel-data/youtube-sentiment-analysis.git
+- cd youtube-sentiment-analysis
 
-cd youtube-sentiment-analysis
+### 2. **Install dependencies**
+```python
+!pip install openai pytubefix google-api-python-client --quiet
+```
+```python
+# Import necessary modules
+import openai
+from google.colab import userdata
+from pytubefix import YouTube
+import xml.etree.ElementTree as ET
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from transformers import pipeline
+```
 
-3. **Install dependencies**
-
-4. **Configure API Keys**
+### 3. **Configure API Keys**
 - Get YouTube Data API v3 key from Google Cloud Console
 - Set up Gemini AI API access
 - Add keys to your environment variables
