@@ -1,4 +1,4 @@
-# YouTube Comment Sentiment Analysis
+# YouTube Comment Sentiment Analysis | YT API, HF API, Gemini API, Python
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/651d5d7e-a2c9-4ef0-b8f0-86dca75511c1" />
 
 ## 📋 Project Overview
