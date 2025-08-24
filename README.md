@@ -28,5 +28,17 @@ This project analyzes YouTube comments to understand viewer sentiment and extrac
 
 1. **Clone the repository**
 
+
+2. **Install dependencies**
+
+3. **Configure API Keys**
+- Get YouTube Data API v3 key from Google Cloud Console
+- Set up Gemini AI API access
+- Add keys to your environment variables
+
+## 💻 Usage
+
+1. **Open the Jupyter notebook**
+
 ## 📁 Project Structure
 
