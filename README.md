@@ -21,11 +21,12 @@ This automated approach saves hours of manual analysis while providing professio
 
 1. **Clone the repository**
 git clone https://github.com/shakeel-data/youtube-sentiment-analysis.git
+
 cd youtube-sentiment-analysis
 
-2. **Install dependencies**
+3. **Install dependencies**
 
-3. **Configure API Keys**
+4. **Configure API Keys**
 - Get YouTube Data API v3 key from Google Cloud Console
 - Set up Gemini AI API access
 - Add keys to your environment variables
