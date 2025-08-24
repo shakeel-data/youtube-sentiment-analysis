@@ -84,9 +84,10 @@ from transformers import pipeline
 - **Marketing Insights**: Understand audience sentiment for campaign planning
 - **Competitive Analysis**: Monitor competitor video reception
 
-## 🛠️ Technologies Used
-
-- **Python** - Core programming language
+☁️ Technologies and Tools
+- **Google Colab** – Interactive environment for coding and presenting analysis
+- **Python** – Data analysis, manipulation and Visualization
+  - Libraries: `numpy`, `pandas`, `matplotlib`
 - **YouTube Data API v3** - Comment and transcript extraction
 - **Hugging Face Transformers** - Sentiment analysis with pre-trained models
 - **Gemini AI** - Intelligent summarization and analysis
