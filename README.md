@@ -76,21 +76,6 @@ This project analyzes YouTube comments to understand viewer sentiment and extrac
 - **Marketing Insights**: Understand audience sentiment for campaign planning
 - **Competitive Analysis**: Monitor competitor video reception
 
-## 🤝 Contributing
-
-Contributions welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-MIT License - see LICENSE file for details
-
-## 👨‍💻 Author
-
-**[Your Name]** - Aspiring Data Engineer & AI Enthusiast  
-📧 [your.email@example.com]  
-💼 [LinkedIn Profile]  
-🐙 [GitHub Profile]
-
 ---
 
 *This project demonstrates end-to-end data analysis skills, from API integration to business intelligence - perfect for showcasing technical and analytical capabilities in a professional portfolio.*
