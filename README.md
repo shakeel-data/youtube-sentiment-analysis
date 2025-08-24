@@ -20,7 +20,8 @@ This automated approach saves hours of manual analysis while providing professio
 ## 🔧 Setup & Installation
 
 1. **Clone the repository**
-
+git clone https://github.com/shakeel-data/youtube-sentiment-analysis.git
+cd youtube-sentiment-analysis
 
 2. **Install dependencies**
 
