@@ -23,5 +23,10 @@ This project analyzes YouTube comments to understand viewer sentiment and extrac
 - **Matplotlib & Seaborn** - Data visualization
 - **Pandas & NumPy** - Data processing
 
+
+## 🔧 Setup & Installation
+
+1. **Clone the repository**
+
 ## 📁 Project Structure
 
