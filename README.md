@@ -15,8 +15,11 @@ This automated approach saves hours of manual analysis while providing professio
 - **Smart Summarization**: Batch processing with Gemini 2.5 Flash for detailed insights
 - **Visual Analytics**: 9 comprehensive charts showing sentiment patterns
 - **Business Intelligence**: Strategic recommendations based on user feedback
-
-
+- 
+## 📁 Data Sources
+Python
+  <a href="https://github.com/shakeel-data/youtube-sentiment-analysis/blob/main/YouTube_comment_sentiment_analysis.ipynb">codes</a>
+  
 ## 🔧 Setup & Installation
 
 ### 1. **Clone the repository**
