@@ -84,14 +84,13 @@ from transformers import pipeline
 - **Advanced Analytics**: Topic modeling and trend analysis
 - **Mobile App**: Portable sentiment analysis tool
 
-## ☁️ Technologies and Tools
+## ☁️ Tools and Technologies
 - **Google Colab** – Interactive environment for coding and presenting analysis
 - **Python** – Data analysis, manipulation and Visualization
   - Libraries: `numpy`, `pandas`, `matplotlib`
 - **YouTube Data API v3** - Comment and transcript extraction
 - **Hugging Face Transformers** - Sentiment analysis with pre-trained models
 - **Gemini AI** - Intelligent summarization and analysis
-- **Transformers Library** - Sentiment analysis with confidence scoring
 
 ## ✅ Conclusion
 This project successfully combines YouTube Data API v3, Hugging Face Transformers, and Gemini AI to transform raw user comments into actionable business insights. We analyzed 500 comments with 95% confidence, revealing key sentiment patterns and strategic recommendations for content improvement.
