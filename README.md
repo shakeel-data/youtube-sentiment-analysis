@@ -14,15 +14,6 @@ This project analyzes YouTube comments to understand viewer sentiment and extrac
 - **Visual Analytics**: 9 comprehensive charts showing sentiment patterns
 - **Business Intelligence**: Strategic recommendations based on user feedback
 
-## 🛠️ Technologies Used
-
-- **Python** - Core programming language
-- **YouTube Data API v3** - Comment and transcript extraction
-- **Gemini AI** - Intelligent summarization and analysis
-- **Transformers Library** - Sentiment analysis with confidence scoring
-- **Matplotlib & Seaborn** - Data visualization
-- **Pandas & NumPy** - Data processing
-
 
 ## 🔧 Setup & Installation
 
@@ -76,3 +67,12 @@ This project analyzes YouTube comments to understand viewer sentiment and extrac
 - **Marketing Insights**: Understand audience sentiment for campaign planning
 - **Competitive Analysis**: Monitor competitor video reception
 
+## 🛠️ Technologies Used
+
+- **Python** - Core programming language
+- **YouTube Data API v3** - Comment and transcript extraction
+- **Hugging Face Transformers** - Sentiment analysis with pre-trained models
+- **Gemini AI** - Intelligent summarization and analysis
+- **Transformers Library** - Sentiment analysis with confidence scoring
+- **Matplotlib & Seaborn** - Data visualization
+- **Pandas & NumPy** - Data processing
