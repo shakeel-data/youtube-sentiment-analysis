@@ -84,7 +84,7 @@ from transformers import pipeline
 - **Marketing Insights**: Understand audience sentiment for campaign planning
 - **Competitive Analysis**: Monitor competitor video reception
 
-☁️ Technologies and Tools
+## ☁️ Technologies and Tools
 - **Google Colab** – Interactive environment for coding and presenting analysis
 - **Python** – Data analysis, manipulation and Visualization
   - Libraries: `numpy`, `pandas`, `matplotlib`
@@ -92,5 +92,4 @@ from transformers import pipeline
 - **Hugging Face Transformers** - Sentiment analysis with pre-trained models
 - **Gemini AI** - Intelligent summarization and analysis
 - **Transformers Library** - Sentiment analysis with confidence scoring
-- **Matplotlib & Seaborn** - Data visualization
-- **Pandas & NumPy** - Data processing
+
