@@ -70,19 +70,19 @@ from transformers import pipeline
 - **Data Visualization**: Creating compelling charts for stakeholder communication
 - **Problem Solving**: Handling API limitations and data quality challenges
 
-## 🔮 Future Enhancements
-
-- **Scale Analysis**: Support for multiple videos and channels
-- **Real-time Dashboard**: Live sentiment monitoring
-- **Advanced Analytics**: Topic modeling and trend analysis
-- **Mobile App**: Portable sentiment analysis tool
-
 ## 📈 Business Applications
 
 - **Content Strategy**: Optimize video formats based on audience feedback
 - **Product Development**: Identify features users love or dislike
 - **Marketing Insights**: Understand audience sentiment for campaign planning
 - **Competitive Analysis**: Monitor competitor video reception
+
+## 🔮 Future Enhancements
+
+- **Scale Analysis**: Support for multiple videos and channels
+- **Real-time Dashboard**: Live sentiment monitoring
+- **Advanced Analytics**: Topic modeling and trend analysis
+- **Mobile App**: Portable sentiment analysis tool
 
 ## ☁️ Technologies and Tools
 - **Google Colab** – Interactive environment for coding and presenting analysis
