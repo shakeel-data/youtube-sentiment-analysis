@@ -76,9 +76,3 @@ This project analyzes YouTube comments to understand viewer sentiment and extrac
 - **Marketing Insights**: Understand audience sentiment for campaign planning
 - **Competitive Analysis**: Monitor competitor video reception
 
----
-
-*This project demonstrates end-to-end data analysis skills, from API integration to business intelligence - perfect for showcasing technical and analytical capabilities in a professional portfolio.*
-
-## 📁 Project Structure
-
