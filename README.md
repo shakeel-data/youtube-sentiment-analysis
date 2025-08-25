@@ -1,5 +1,5 @@
 # 💬 YouTube Comment Sentiment Analysis | YouTube API + Hugging Face + Gemini AI + Python
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/651d5d7e-a2c9-4ef0-b8f0-86dca75511c1" />
+<img width="2048" height="2048" alt="Google_AI_Studio_2025-08-25T16_42_49 600Z" src="https://github.com/user-attachments/assets/a731183e-6abf-48f0-bf3b-b84b1e6e7b53" />
 
 YouTube sentiment comment analysis helps you truly understand how real viewers feel about a video or a brand—way beyond basic metrics like views and likes. By automatically classifying user comments into positive, neutral, or negative, you get instant, honest feedback about what’s working and what isn’t. For content creators and businesses, this analysis highlights which aspects of the content resonate with people and what needs improvement, helping to refine future videos and communication strategy. It can also alert you to customer pain points, product gaps, and audience trends that’d be nearly impossible to catch by reading every comment manually.
 
