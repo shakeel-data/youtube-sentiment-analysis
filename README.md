@@ -162,32 +162,25 @@ else:
     print("Could not proceed with summarization as no transcript was found.")
 ```
 
-<div style="background-color: #f6f8fa; border-left: 4px solid #d1d5da; padding: 16px; margin: 16px 0; font-family: 'SFMono-Regular', Menlo, Monaco, Consolas, monospace;">
+**Console Output:**
 
-**System Output:**
-Fetching transcript... Generating summary with Gemini API...
---- Video Transcript Summary ---
-This transcript details the "Made By Google 2025" event, hosted by Jimmy Fallon in Brooklyn, NY,
-celebrating the 10th anniversary of the Google Pixel.
-
-Key Highlights:
-
-Gemini AI at the Core – Personal, proactive AI assistant on phones, wearables, and more.
-
-Pixel 10 & 10 Pro – Sleek design, 100x Pro Res Zoom, Tensor G-5 chip, 7 years of updates.
-
-Pixel 10 Pro Fold – First foldable with IP68 protection.
-
-Pixel Watch 4 – Detects pulse loss, offers satellite SOS, advanced health tracking.
-
-Pixel Buds – Adaptive Audio, head gestures, Gemini Live integration.
-
-AI Features – Magic Cue inbox manager, Camera Coach, and creative tools like Veo.
-
-Special Guests – Stephen Curry joins as Fitbit AI Health Coach Advisor.
-
-🎬 Event ended with a Jonas Brothers music video shot entirely on the Pixel 10 Pro.
-</div>
+> ```
+> Fetching transcript... Generating summary with Gemini API...
+> --- Video Transcript Summary ---
+> This transcript details the "Made By Google 2025" event, hosted by Jimmy Fallon in Brooklyn, NY, 
+> celebrating the 10th anniversary of the Google Pixel.
+> 
+> Key Highlights:
+> -  Gemini AI at the Core – Personal, proactive AI assistant on phones, wearables, and more.
+> -  Pixel 10 & 10 Pro – Sleek design, 100x Pro Res Zoom, Tensor G-5 chip, 7 years of updates.
+> -  Pixel 10 Pro Fold – First foldable with IP68 protection.
+> -  Pixel Watch 4 – Detects pulse loss, offers satellite SOS, advanced health tracking.
+> -  Pixel Buds – Adaptive Audio, head gestures, Gemini Live integration.
+> -  AI Features – Magic Cue inbox manager, Camera Coach, and creative tools like Veo.
+> -  Special Guests – Stephen Curry joins as Fitbit AI Health Coach Advisor.
+> 
+> 🎬 Event ended with a Jonas Brothers music video shot entirely on the Pixel 10 Pro.
+> ```
 
 ## 🎯 Fetch YouTube Video Comments
 This step focuses on gathering real user insights from a YouTube video:
