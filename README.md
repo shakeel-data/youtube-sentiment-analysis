@@ -165,7 +165,8 @@ else:
 **Console Output:**
 
 > 
-> Fetching transcript... Generating summary with Gemini API...
+> Fetching transcript...
+> Generating summary with Gemini API...
 > 
 > --- Video Transcript Summary ---
 > 
