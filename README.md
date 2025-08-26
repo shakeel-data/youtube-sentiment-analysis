@@ -164,7 +164,7 @@ else:
 
 **Console Output:**
 
-> ```
+> 
 > Fetching transcript... Generating summary with Gemini API...
 > --- Video Transcript Summary ---
 > This transcript details the "Made By Google 2025" event, hosted by Jimmy Fallon in Brooklyn, NY, 
@@ -180,7 +180,7 @@ else:
 > -  Special Guests – Stephen Curry joins as Fitbit AI Health Coach Advisor.
 > 
 > 🎬 Event ended with a Jonas Brothers music video shot entirely on the Pixel 10 Pro.
-> ```
+> 
 
 ## 🎯 Fetch YouTube Video Comments
 This step focuses on gathering real user insights from a YouTube video:
