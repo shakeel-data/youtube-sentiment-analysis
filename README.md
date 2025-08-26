@@ -1,5 +1,6 @@
 # 💬 YouTube Comment Sentiment Analysis Project | Python + YouTube API + Hugging Face + Gemini AI
 <img width="2048" height="2048" alt="Google_AI_Studio_2025-08-25T16_42_49 600Z" src="https://github.com/user-attachments/assets/a731183e-6abf-48f0-bf3b-b84b1e6e7b53" />
+<img width="3552" height="2161" alt="_- visual selection" src="https://github.com/user-attachments/assets/5c8be9f4-83c1-4bf6-8946-c39c063bad55" />
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" alt="Python"/>
