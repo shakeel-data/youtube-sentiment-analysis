@@ -246,7 +246,7 @@ else:
 
 **Console Output:**
 >
-> --- Sample fetched 500 comments ---
+> --- Sample fetched 5 comments ---
 >
 > - Comment 1: This shows that you can have all the money in the world and still can't make a single presentation work... Man we miss Steve Jobs.
 > - Comment 2: The battery of my Pixel 7 Pro has swollen, even though I have always used my phone carefully. I never overloaded it and usually charged it no more than 85% to maintain battery life.
@@ -346,35 +346,24 @@ final_comments_summary = create_final_summary(summaries, transcript_summary)
 print("\n--- Final Comments Analysis ---")
 print(final_comments_summary)
 ```
+**Console Output:**
 
-
-$ python sentiment_analysis.py
-Processing comments in batches...
-Created 6 batches
-Generating batch summaries...
-Processing batch 1/6...
-Processing batch 2/6...
-Processing batch 3/6...
-Processing batch 4/6...
-Processing batch 5/6...
-Processing batch 6/6...
-Creating final comprehensive summary...
-
---- Final Comments Analysis ---
-The user's comment reflects a nuanced perspective within a largely negative feedback landscape, identifying both significant frustrations and specific areas of appreciation for the Google event.
-
-Highlights:
-  ✔ Positive: Improved chemistry & natural delivery in later segments
-  ✔ Positive: "Stellar and natural" camera feature demos
-  ✖ Negative: Event perceived as a "waste of time and money"
-  ✖ Negative: AI features criticized for "regurgitating opinions"
-  ✖ Negative: Jimmy Fallon's intro & outro received poor reception
-
-Actionable Recommendations:
-  1. Gemini fact-finding challenge video to address AI credibility concerns
-  2. Professional, unfiltered Pixel camera workshops
-  3. Behind-the-scenes technical stories featuring Google engineers
-
+>
+> --- Final Comments Analysis ---
+> The user's comment reflects a nuanced perspective within a largely negative feedback landscape, identifying both significant frustrations and specific areas of appreciation for the Google event.
+>
+> Highlights:
+> - ✔ Positive: Improved chemistry & natural delivery in later segments
+> - ✔ Positive: "Stellar and natural" camera feature demos
+> - ✖ Negative: Event perceived as a "waste of time and money"
+> - ✖ Negative: AI features criticized for "regurgitating opinions"
+> - ✖ Negative: Jimmy Fallon's intro & outro received poor reception
+>
+> Actionable Recommendations:
+> 1. Gemini fact-finding challenge video to address AI credibility concerns
+> 2. Professional, unfiltered Pixel camera workshops
+> 3. Behind-the-scenes technical stories featuring Google engineers
+>
 
 ## 🧠 Intelligent Comment Summarization
 This module processes large volumes of YouTube comments with AI-powered summarization using the `gemini-2.5-flash` model to extract meaningful insights.
