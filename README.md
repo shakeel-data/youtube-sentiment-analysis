@@ -165,10 +165,6 @@ else:
 **Console Output:**
 
 > 
-> Fetching transcript...
-> 
-> Generating summary with Gemini API...
-> 
 > --- Video Transcript Summary ---
 > 
 > This transcript details the "Made By Google 2025" event, hosted by Jimmy Fallon in Brooklyn, NY, 
