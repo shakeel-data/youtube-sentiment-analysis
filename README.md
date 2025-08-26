@@ -650,8 +650,6 @@ create_sentiment_summary_chart(sentiment_results)
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/ceb8c248-6304-4e34-8108-2e7f0c6ca242" />
 
 ## 📢 YouTube Comments Sentiment Overview
-## 📊 **Sentiment Analysis Results**
-
 **📋 Overview:**
 - **Total Comments:** 500
 - **Analysis Time:** 2.3 seconds  
@@ -667,11 +665,6 @@ create_sentiment_summary_chart(sentiment_results)
 
 **🔍 Key Finding:**
 > Negative sentiment dominates (71.2%) - immediate attention recommended to address user concerns.
-
-**📊 Quick View:**
-Positive ████████████ 24%
-Negative ████████████████████████████████ 71% ⚠️
-Neutral ██ 5%
 
 
 ## 📊 Sample Results
