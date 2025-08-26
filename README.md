@@ -166,6 +166,7 @@ else:
 
 > 
 > Fetching transcript...
+> 
 > Generating summary with Gemini API...
 > 
 > --- Video Transcript Summary ---
