@@ -1,5 +1,5 @@
 # 💬 AI-Powered YouTube Audience Sentiment Insights Project | Python + YouTube API + Hugging Face + Gemini AI
-![Uploading _- visual selection (2).png…]()
+<img width="3552" height="2215" alt="_- visual selection (2)" src="https://github.com/user-attachments/assets/497ea73e-7383-45ad-a6a2-50171850183f" />
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" alt="Python"/>
