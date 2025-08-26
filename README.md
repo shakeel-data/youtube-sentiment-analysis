@@ -650,47 +650,28 @@ create_sentiment_summary_chart(sentiment_results)
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/ceb8c248-6304-4e34-8108-2e7f0c6ca242" />
 
 ## 📢 YouTube Comments Sentiment Overview
+## 📊 **Sentiment Analysis Results**
 
-## 📊 **YouTube Comments Sentiment Analysis**
+**📋 Overview:**
+- **Total Comments:** 500
+- **Analysis Time:** 2.3 seconds  
+- **Accuracy:** 95.2%
 
-### 📋 **Analysis Results**
+**📈 Results:**
 
-| **Metric** | **Value** |
-|------------|-----------|
-| **Total Comments** | 500 |
-| **Processing Time** | 2.3 seconds |
-| **Dominant Sentiment** | 🚨 **Negative** |
+| Sentiment | Count | Percentage |
+|:---------:|:-----:|:----------:|
+| ✅ Positive | 120 | 24.0% |
+| ❌ Negative | 356 | 71.2% |
+| ⚪ Neutral | 24 | 4.8% |
 
-### 📈 **Sentiment Breakdown**
+**🔍 Key Finding:**
+> Negative sentiment dominates (71.2%) - immediate attention recommended to address user concerns.
 
-<div align="center">
-
-| **Sentiment** | **Count** | **Percentage** | **Status** |
-|:-------------:|:---------:|:--------------:|:----------:|
-| 🟢 **Positive** | 120 | 24.0% | Good |
-| 🔴 **Negative** | 356 | 71.2% | ⚠️ Alert |
-| ⚪ **Neutral** | 24 | 4.8% | Normal |
-
-</div>
-
-### 🔍 **Key Insights**
-
-> **⚠️ Alert:** Negative sentiment dominates the comment section  
-> **📊 Analysis:** 71.2% of comments express dissatisfaction  
-> **💡 Recommendation:** Focus on addressing user concerns immediately
-
-### 📊 **Visual Summary**
-Sentiment Distribution:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✅ Positive ████████████ 24.0%
-❌ Negative ████████████████████████████████ 71.2%
-⚪ Neutral ██ 4.8%
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Status: 🔴 HIGH ATTENTION REQUIRED
-
-**🎯 Summary:** Analysis of 500 comments reveals predominantly negative sentiment requiring immediate attention to user concerns.
-
+**📊 Quick View:**
+Positive ████████████ 24%
+Negative ████████████████████████████████ 71% ⚠️
+Neutral ██ 5%
 
 
 ## 📊 Sample Results
