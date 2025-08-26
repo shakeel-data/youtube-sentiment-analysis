@@ -649,32 +649,30 @@ create_sentiment_summary_chart(sentiment_results)
 <img width="1178" height="390" alt="image" src="https://github.com/user-attachments/assets/9a712a02-3b85-4174-a0ff-a2757c0c11ad" />
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/ceb8c248-6304-4e34-8108-2e7f0c6ca242" />
 
-## 💻 **Analysis Output**
+## 🔍 **YouTube Sentiment Analysis Report**
 
-> ```
-> $ python sentiment_analyzer.py --comments=500
-> 
-> Processing YouTube comments... ████████████ 100%
-> Sentiment analysis complete!
-> 
-> ═══════════════════════════════════════════
->            SENTIMENT ANALYSIS REPORT
-> ═══════════════════════════════════════════
-> 
-> Total Comments:     500
-> Processing Time:    2.3 seconds
-> Accuracy Rate:      95.2%
-> 
-> ┌─────────────┬───────┬─────────┬─────────────┐
-> │ Sentiment   │ Count │ Percent │ Status      │
-> ├─────────────┼───────┼─────────┼─────────────┤
-> │ ✅ Positive │  120  │  24.0%  │ Good        │
-> │ ❌ Negative │  356  │  71.2%  │ ⚠️  ALERT   │
-> │ ⚪ Neutral  │   24  │   4.8%  │ Normal      │
-> └─────────────┴───────┴─────────┴─────────────┘
-> 
-> 🚨 RECOMMENDATION: Address negative feedback immediately
-> ```
+### 📊 **Key Metrics Overview**
+
+<div align="center">
+
+![Positive](https://img.shields.io/badge/Positive-120_(24%25)-28a745?style=flat-square&logo=thumbs-up)
+![Negative](https://img.shields.io/badge/Negative-356_(71.2%25)-dc3545?style=flat-square&logo=thumbs-down)
+![Neutral](https://img.shields.io/badge/Neutral-24_(4.8%25)-6c757d?style=flat-square&logo=minus-circle)
+
+</div>
+
+### 📈 **Sentiment Distribution**
+
+| 📊 **Sentiment** | 🔢 **Count** | 📊 **Percentage** | 📈 **Visual** |
+|:---------------:|:------------:|:----------------:|:-------------:|
+| 🟢 **Positive** | 120 | 24.0% | ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ |
+| 🔴 **Negative** | 356 | 71.2% | ███████████████████████████████████████████████████████████████████████ |
+| ⚪ **Neutral** | 24 | 4.8% | █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ |
+
+> ### 🚨 **Critical Insight**
+> **Negative sentiment dominates** with 71.2% of comments expressing dissatisfaction.
+> **Immediate action recommended** to address user concerns and improve engagement.
+
 
 
 
