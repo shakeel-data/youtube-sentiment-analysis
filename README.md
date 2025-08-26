@@ -184,11 +184,12 @@ else:
 
 ## 🎯 Fetch YouTube Video Comments
 This step focuses on gathering real user insights from a YouTube video:
-- 🔹 API Used: YouTube Data API v3
-- 🔹 Pagination: Fetches comments in batches until reaching 500 comments total
-- 🔹 Error Handling: Retries on failed requests and gracefully skips unavailable data
-- 🔹 Verification: Displays the first 5 comments as a quick preview
-- 🔹 Storage: Saves all fetched comments for downstream text analysis
+
+🔹 API Used: YouTube Data API v3
+🔹 Pagination: Fetches comments in batches until reaching 500 comments total
+🔹 Error Handling: Retries on failed requests and gracefully skips unavailable data
+🔹 Verification: Displays the first 5 comments as a quick preview
+🔹 Storage: Saves all fetched comments for downstream text analysis
 
 💡 Why this matters: Collecting a large, representative sample of comments helps uncover audience sentiment, engagement trends, and recurring feedback patterns.
 ```python
@@ -245,7 +246,7 @@ else:
     print("No comments were fetched.")
 ```
 
-```
+``
 Fetching video comments...
 Successfully fetched 500 comments.
 
@@ -263,7 +264,7 @@ Comment 3: I like the format... not sure why people are complaining so much!
 Comment 4: Happy pixel 10 series 🎉
 
 Comment 5: Jimmy's body language gives me Elon Music Vibes
-```
+``
 
 
 ## 📊 Sentiment Analysis of YouTube Comments
