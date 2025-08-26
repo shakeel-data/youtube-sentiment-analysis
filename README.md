@@ -3,8 +3,8 @@
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" alt="YouTube"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Hugging_Face_logo.svg" width="40" alt="Hugging Face"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="40" alt="YouTube"/>
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="40" alt="Hugging Face"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="40" alt="Gemini AI"/>
 </p>
 
