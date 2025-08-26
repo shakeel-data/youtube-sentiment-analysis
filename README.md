@@ -163,7 +163,6 @@ else:
 ```
 
 **Console Output:**
-
 > 
 > --- Video Transcript Summary ---
 > 
@@ -184,12 +183,11 @@ else:
 
 ## 🎯 Fetch YouTube Video Comments
 This step focuses on gathering real user insights from a YouTube video:
-
-🔹 API Used: YouTube Data API v3
-🔹 Pagination: Fetches comments in batches until reaching 500 comments total
-🔹 Error Handling: Retries on failed requests and gracefully skips unavailable data
-🔹 Verification: Displays the first 5 comments as a quick preview
-🔹 Storage: Saves all fetched comments for downstream text analysis
+- API Used: YouTube Data API v3
+- Pagination: Fetches comments in batches until reaching 500 comments total
+- Error Handling: Retries on failed requests and gracefully skips unavailable data
+- Verification: Displays the first 5 comments as a quick preview
+- Storage: Saves all fetched comments for downstream text analysis
 
 💡 Why this matters: Collecting a large, representative sample of comments helps uncover audience sentiment, engagement trends, and recurring feedback patterns.
 ```python
@@ -246,25 +244,21 @@ else:
     print("No comments were fetched.")
 ```
 
-``
-Fetching video comments...
-Successfully fetched 500 comments.
-
---- Sample Comments ---
-Comment 1: This shows that you can have all the money in the world and still can't make a single presentation work... Man we miss Steve Jobs.
-
-Comment 2: The battery of my Pixel 7 Pro has swollen, even though I have always used my phone carefully. I never overloaded it and usually charged it no more than 85% to maintain battery life.
-
-I have already contacted Google's customer service. They have told me that I should check via an email they sent whether I am eligible for a warranty application or a repair. However, this puts me in a difficult situation, as the employee herself indicated that she does not know what to do in the meantime.
-
-A swollen battery is very dangerous and can cause serious safety risks. Moreover, my entire digital life is on this device, which means that I now have a big problem. All around the world, people have this problem with Google devices, and if I knew that my mobile would have this sort of problem, I would never have bought a Google device in the first place. People, if you are concerned about your safety and your family's, please don't buy anything from this company; buy from a company that is safe and reliable.
-
-Comment 3: I like the format... not sure why people are complaining so much!
-
-Comment 4: Happy pixel 10 series 🎉
-
-Comment 5: Jimmy's body language gives me Elon Music Vibes
-``
+**Console Output:**
+>
+> --- Sample fetched 500 comments ---
+>
+> - Comment 1: This shows that you can have all the money in the world and still can't make a single presentation work... Man we miss Steve Jobs.
+> - Comment 2: The battery of my Pixel 7 Pro has swollen, even though I have always used my phone carefully. I never overloaded it and usually charged it no more than 85% to maintain battery life.
+>
+> I have already contacted Google's customer service. They have told me that I should check via an email they sent whether I am eligible for a warranty application or a repair. However, this puts me in a difficult situation, as the employee herself indicated that she does not know what to do in the meantime.
+>
+> A swollen battery is very dangerous and can cause serious safety risks. Moreover, my entire digital life is on this device, which means that I now have a big problem. All around the world, people have this problem with Google devices, and if I knew that my mobile would have this sort of problem, I would never have bought a Google device in the first place. People, if you are concerned about your safety and your family's, please don't buy anything from this company; buy from a company that is safe and reliable.
+>
+> - Comment 3: I like the format... not sure why people are complaining so much!
+> - Comment 4: Happy pixel 10 series 🎉
+> - Comment 5: Jimmy's body language gives me Elon Music Vibes
+>
 
 
 ## 📊 Sentiment Analysis of YouTube Comments
