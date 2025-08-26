@@ -649,31 +649,46 @@ create_sentiment_summary_chart(sentiment_results)
 <img width="1178" height="390" alt="image" src="https://github.com/user-attachments/assets/9a712a02-3b85-4174-a0ff-a2757c0c11ad" />
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/ceb8c248-6304-4e34-8108-2e7f0c6ca242" />
 
-## 📊 **YouTube Comments Sentiment Analysis**
+## 🎬 **Sentiment Analysis Results**
 
 <div align="center">
 
-### 🎯 **Performance Summary**
+<table>
+<tr>
+<td align="center" width="33%">
 
-| **Metric** | **Result** | **Status** |
-|:----------:|:----------:|:----------:|
-| **Total Comments Analyzed** | **500** | ✅ Complete |
-| **Processing Time** | **2.3 seconds** | ⚡ Fast |
-| **Accuracy Rate** | **95.2%** | 🎯 High |
+**📊 Total Comments**
+<br/>
+<img src="https://img.shields.io/badge/500-Comments-blue?style=for-the-badge" alt="Total Comments"/>
+<br/>
+*Successfully Analyzed*
+
+</td>
+<td align="center" width="33%">
+
+**🚨 Dominant Sentiment**
+<br/>
+<img src="https://img.shields.io/badge/NEGATIVE-71.2%25-red?style=for-the-badge" alt="Negative Dominant"/>
+<br/>
+*Requires Attention*
+
+</td>
+<td align="center" width="33%">
+
+**⚡ Processing Speed**
+<br/>
+<img src="https://img.shields.io/badge/2.3s-Fast-green?style=for-the-badge" alt="Fast Processing"/>
+<br/>
+*Optimized Performance*
+
+</td>
+</tr>
+</table>
 
 </div>
 
-### 📈 **Sentiment Breakdown**
+### 📊 **Detailed Breakdown**
 
-> **🚨 Alert:** Negative sentiment dominates this video's comments
-> 
-> | Sentiment | Count | Percentage | Trend |
-> |:---------:|:-----:|:----------:|:-----:|
-> | 🟢 **Positive** | 120 | 24.0% | ↗️ |
-> | 🔴 **Negative** | 356 | 71.2% | ⚠️ |
-> | ⚪ **Neutral** | 24 | 4.8% | → |
-> 
-> **💡 Recommendation:** Urgent focus on addressing user concerns is recommended.
 
 ## 📊 Sample Results
 
