@@ -20,13 +20,13 @@ This automated approach saves hours of manual analysis while providing professio
 Python
   <a href="https://github.com/shakeel-data/youtube-sentiment-analysis/blob/main/YouTube_comment_sentiment_analysis.ipynb">codes</a>
   
-## 🔧 Setup & Installation
-
-### 1. **Clone the repository**
+### **Clone the repository**
 - git clone https://github.com/shakeel-data/youtube-sentiment-analysis.git
 - cd youtube-sentiment-analysis
+  
+## 🔧 Project Workflow
 
-### 2. **Install dependencies**
+### 1. **Install dependencies**
 ```python
 !pip install openai pytubefix google-api-python-client --quiet
 ```
@@ -42,7 +42,7 @@ import matplotlib.pyplot as plt
 from transformers import pipeline
 ```
 
-### 3. **Configure API Keys**
+### 2. **Configure API Keys**
 - Get YouTube Data API v3 key from Google Cloud Console
 - Set up Gemini AI API access
 - Add keys to your environment variables
@@ -68,7 +68,7 @@ VIDEOID = 'JXCXTQIIvM0'
 ```
 <img width="1121" height="69" alt="image" src="https://github.com/user-attachments/assets/35d268ef-2350-4070-a4f3-0715bc1fb4f6" />
 
-## 🛠️ Function Definitions
+## 3. 🛠️ Function Definitions
 `get_video_transcript(video_id):` 
 Fetches and cleans the transcript of a YouTube video.
 - Uses `pytubefix` to grab the English captions.
@@ -139,7 +139,7 @@ def get_transcript_summary(transcript):
         print(f"An error occurred during summarization: {e}")
         return "Failed to generate summary."
 ```
-## ▶️ Execute Analysis and View Results
+## 4. ▶️ Execute Analysis and View Results
 This step ties everything together:
 - Runs the full analysis pipeline.
 - Fetches the transcript using the earlier functions.
@@ -162,9 +162,6 @@ else:
     print("Could not proceed with summarization as no transcript was found.")
 ```
 
-```bash
-$ python summarize_video.py --video_id=JXCXTQIIvM0
-
 >>> Fetching transcript...
 >>> Generating summary with Gemini API...
 
@@ -183,7 +180,7 @@ Key Highlights:
 7. Special Guests – Stephen Curry joins as Fitbit AI Health Coach Advisor.  
 
 🎬 Event ended with a Jonas Brothers music video shot entirely on the Pixel 10 Pro.
-```
+
 
 ## 🎯 Fetch YouTube Video Comments
 This step focuses on gathering real user insights from a YouTube video:
@@ -247,7 +244,8 @@ if video_comments:
 else:
     print("No comments were fetched.")
 ```
-```bash
+
+
 $ python fetch_youtube_comments.py
 Fetching video comments...
 Successfully fetched 500 comments.
@@ -267,7 +265,7 @@ Comment 4: Happy pixel 10 series 🎉
 ----------------------------------------
 Comment 5: Jimmy's body language gives me Elon Music Vibes
 ----------------------------------------
-```
+
 
 ## 📊 Sentiment Analysis of YouTube Comments
 
@@ -355,7 +353,7 @@ print("\n--- Final Comments Analysis ---")
 print(final_comments_summary)
 ```
 
-```bash
+
 $ python sentiment_analysis.py
 Processing comments in batches...
 Created 6 batches
@@ -382,11 +380,12 @@ Actionable Recommendations:
   1. Gemini fact-finding challenge video to address AI credibility concerns
   2. Professional, unfiltered Pixel camera workshops
   3. Behind-the-scenes technical stories featuring Google engineers
-```
+
 
 ## 🧠 Intelligent Comment Summarization
 This module processes large volumes of YouTube comments with AI-powered summarization using the `gemini-2.5-flash` model to extract meaningful insights.
-🔹 Process Flow
+
+Process Flow
 - **Batch Processing**
   - Splits comments into manageable chunks based on token limits to handle large datasets efficiently.
 - **AI Summarization**
