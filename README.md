@@ -354,11 +354,11 @@ print(final_comments_summary)
 > The user's comment reflects a nuanced perspective within a largely negative feedback landscape, identifying both significant frustrations and specific areas of appreciation for the Google event.
 >
 > Highlights:
-> ✔ Positive: Improved chemistry & natural delivery in later segments
-> ✔ Positive: "Stellar and natural" camera feature demos
-> ✖ Negative: Event perceived as a "waste of time and money"
-> ✖ Negative: AI features criticized for "regurgitating opinions"
-> ✖ Negative: Jimmy Fallon's intro & outro received poor reception
+> - ✔ Positive: Improved chemistry & natural delivery in later segments
+> - ✔ Positive: "Stellar and natural" camera feature demos
+> - ✖ Negative: Event perceived as a "waste of time and money"
+> - ✖ Negative: AI features criticized for "regurgitating opinions"
+> - ✖ Negative: Jimmy Fallon's intro & outro received poor reception
 >
 > Actionable Recommendations:
 > 1. Gemini fact-finding challenge video to address AI credibility concerns
