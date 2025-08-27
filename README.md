@@ -31,6 +31,8 @@ This automated approach saves hours of manual analysis while providing professio
 ## 📁 Data Sources
 Python
   <a href="https://github.com/shakeel-data/youtube-sentiment-analysis/blob/main/YouTube_comment_sentiment_analysis.ipynb">codes</a>
+Saved model
+  <a href="https://github.com/shakeel-data/youtube-sentiment-analysis/blob/main/youtube_sentiment_model.h5">h5</a>
   
 ### **Clone the repository**
 - git clone https://github.com/shakeel-data/youtube-sentiment-analysis.git
