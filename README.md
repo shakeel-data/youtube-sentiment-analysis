@@ -1,4 +1,4 @@
-# 💬 AI-Powered YouTube Audience Sentiment Insights Project | **YouTube API, TensorFlow, Hugging Face, Gemini AI, Python*
+# 💬 AI-Powered YouTube Audience Sentiment Insights Project | YouTube API, TensorFlow, Hugging Face, Gemini AI, Python
 <img width="3552" height="2215" alt="_- visual selection (2)" src="https://github.com/user-attachments/assets/497ea73e-7383-45ad-a6a2-50171850183f" />
 
 <p align="center">
@@ -6,6 +6,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="40" alt="YouTube"/>
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="40" alt="Hugging Face"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="80" alt="Gemini AI"/>
+
+
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" alt="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" width="40" alt="TensorFlow"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
+
+
 </p>
 
 YouTube sentiment comment analysis helps you truly understand how real viewers feel about a video or a brand—way beyond basic metrics like views and likes. By automatically classifying user comments into positive, neutral, or negative, you get instant, honest feedback about what’s working and what isn’t. For content creators and businesses, this analysis highlights which aspects of the content resonate with people and what needs improvement, helping to refine future videos and communication strategy. It can also alert you to customer pain points, product gaps, and audience trends that’d be nearly impossible to catch by reading every comment manually.
