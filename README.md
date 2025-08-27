@@ -70,6 +70,7 @@ print("All model libraries loaded successfully!")
 
 ### 2. **Configure API Keys**
 - Get YouTube Data API v3 key from Google Cloud Console
+- Set up Hugging Face API access
 - Set up Gemini AI API access
 - Add keys to your environment variables
 ```python
