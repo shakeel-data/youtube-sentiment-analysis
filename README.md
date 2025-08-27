@@ -36,7 +36,7 @@ Saved model
   <a href="https://github.com/shakeel-data/youtube-sentiment-analysis/blob/main/youtube_sentiment_model.h5">h5</a>
   
 ### **Clone the repository**
-- git clone https://github.com/shakeel-data/youtube-sentiment-analysis.git
+- git clone https://github.com/shakeel-data/youtube-sentiment-analysis-tensorflow-gemini.git
 - cd youtube-sentiment-analysis
   
 ## 🔧 Project Workflow
