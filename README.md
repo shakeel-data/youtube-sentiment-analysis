@@ -673,36 +673,6 @@ create_sentiment_summary_chart(sentiment_results)
 **🔍 Key Finding:**
 > Negative sentiment dominates (71.2%) - immediate attention recommended to address user concerns.
 
-
-## 📊 Sample Results
-
-**Key Insights from Analysis:**
-- **Sentiment Distribution**: 71.2% negative, 24.0% positive, 4.8% neutral
-- **Model Confidence**: 95.2% high-confidence predictions
-- **Comment Patterns**: Longer comments (22.8 avg words) tend to be more negative
-- **Business Impact**: Clear recommendations for content strategy improvement
-
-## 🎯 Key Learnings
-
-- **Technical Skills**: API integration, data processing, AI model implementation
-- **Business Analysis**: Converting user feedback into strategic insights
-- **Data Visualization**: Creating compelling charts for stakeholder communication
-- **Problem Solving**: Handling API limitations and data quality challenges
-
-## 📈 Business Applications
-
-- **Content Strategy**: Optimize video formats based on audience feedback
-- **Product Development**: Identify features users love or dislike
-- **Marketing Insights**: Understand audience sentiment for campaign planning
-- **Competitive Analysis**: Monitor competitor video reception
-
-## 🔮 Future Enhancements
-
-- **Scale Analysis**: Support for multiple videos and channels
-- **Real-time Dashboard**: Live sentiment monitoring
-- **Advanced Analytics**: Topic modeling and trend analysis
-- **Mobile App**: Portable sentiment analysis tool
-
 ## ☁️ Tools and Technologies
 - **Google Colab** – Interactive environment for coding and presenting analysis
 - **Python** – Data analysis, manipulation and Visualization
