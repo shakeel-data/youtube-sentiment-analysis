@@ -1,4 +1,4 @@
-# 💬 AI-Powered YouTube Audience Sentiment Insights    Project | Python + YouTube API + TensorFlow + Hugging Face + Gemini AI
+# 💬 AI-Powered YouTube Audience Sentiment Insights Project | YouTube API, TensorFlow, Hugging Face, Gemini AI, Python
 <img width="3552" height="2215" alt="_- visual selection (2)" src="https://github.com/user-attachments/assets/497ea73e-7383-45ad-a6a2-50171850183f" />
 
 <p align="center">
@@ -11,17 +11,21 @@
 YouTube sentiment comment analysis helps you truly understand how real viewers feel about a video or a brand—way beyond basic metrics like views and likes. By automatically classifying user comments into positive, neutral, or negative, you get instant, honest feedback about what’s working and what isn’t. For content creators and businesses, this analysis highlights which aspects of the content resonate with people and what needs improvement, helping to refine future videos and communication strategy. It can also alert you to customer pain points, product gaps, and audience trends that’d be nearly impossible to catch by reading every comment manually.
 
 ## 📋 Project Overview
-This project analyzes YouTube comments to understand real viewer sentiment and extract actionable business insights. It combines YouTube Data API v3 for comment extraction with Hugging Face Transformers for AI-powered sentiment classification. The system fetches 500 comments, processes them through advanced NLP models, and generates comprehensive visualizations showing positive, negative, and neutral sentiment patterns. Using Gemini AI for intelligent summarization, it transforms raw user feedback into strategic recommendations for content improvement. The analysis includes confidence scoring, comment length correlation, and detailed sentiment distribution metrics. 
+This project analyzes YouTube comments to understand real viewer sentiment and extract actionable business insights using a dual AI architecture. It combines YouTube Data API v3 for comment extraction with both Hugging Face Transformers and custom TensorFlow neural networks for comprehensive sentiment classification. The system fetches 500 comments, processes them through advanced NLP models, and generates comprehensive visualizations showing positive, negative, and neutral sentiment patterns. Using Gemini AI for intelligent summarization, it transforms raw user feedback into strategic recommendations for content improvement. The analysis includes confidence scoring, comment length correlation, detailed sentiment distribution metrics, and production-ready machine learning models.
 
-This automated approach saves hours of manual analysis while providing professional-grade insights for content creators and businesses. The project demonstrates end-to-end data pipeline development, from API integration to business intelligence generation.
+This automated approach saves hours of manual analysis while providing professional-grade insights for content creators and businesses. The project demonstrates end-to-end data pipeline development, from API integration to custom neural network training and business intelligence generation.
 
 ## 🚀 Features
 
-- **Data Collection**: Fetch video transcripts and 500+ comments using YouTube Data API v3
-- **AI Analysis**: Sentiment analysis with 95%+ confidence using transformer models
-- **Smart Summarization**: Batch processing with Gemini 2.5 Flash for detailed insights
-- **Visual Analytics**: 9 comprehensive charts showing sentiment patterns
-- **Business Intelligence**: Strategic recommendations based on user feedback
+- **Data Collection:** Fetch video transcripts and 500+ comments using YouTube Data API v3
+- **Dual AI Analysis:** Sentiment analysis with 95%+ confidence using both pre-trained transformer models and custom TensorFlow neural networks
+- **Custom Neural Network:** LSTM-based sentiment classifier with embedding layers for domain-specific accuracy
+- **Smart Summarization:** Batch processing with Gemini 2.5 Flash for detailed insights
+- **Visual Analytics:** 12+ comprehensive charts showing sentiment patterns, training progress, and model performance
+- **Business Intelligence:** Strategic recommendations based on user feedback
+- **Production-Ready ML:** Trained TensorFlow model (.h5) with tokenizer for real-world deployment
+- **Model Validation:** Cross-validation between Hugging Face and TensorFlow predictions
+
 
 ## 📁 Data Sources
 Python
