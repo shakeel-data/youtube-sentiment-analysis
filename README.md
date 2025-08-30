@@ -1,4 +1,4 @@
-# 💬 AI-Powered YouTube Audience Sentiment Insights Project | YouTube API, TensorFlow, Hugging Face, Gemini AI
+# 💬 AI-Powered YouTube Audience Sentiment Insights Project | Gemini API, TensorFlow, YouTube API, Hugging Face Transformers
 <img width="2196" height="4140" alt="_- visual selection" src="https://github.com/user-attachments/assets/bc4ec638-0aa9-4e7a-b377-e614261c1d83" />
 
 <p align="center">
